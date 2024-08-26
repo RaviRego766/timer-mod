@@ -1,0 +1,10 @@
+{
+    "name": "timer-mod",
+    "displayName": "Timer Mod",
+    "author": "Ravi",
+    "description": "Adds [#00FF00]Timer",
+    "version": "1.0"
+    "minGameVersion": 136
+    "hidden": false
+}
+//hideBrowser = true //Mod Browser 
